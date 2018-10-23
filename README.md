@@ -7,7 +7,7 @@ My Party is a web based project for parties in wich users can work in 2 differen
 This project wants to be a simple example for beginners on how to use Rest principles to build a web service.
 
 # Server
-RESTful web service written in Java and working with an external MySQL database. The communication between server and client takes place through HTTP protocol and his methods (GET, POST, PUT, DELETE). The representation of resources used during the communication is in JSON.
+RESTful web service developed in Java and working with an external MySQL database. The communication between server and client takes place through HTTP protocol and his methods (GET, POST, PUT, DELETE). The representation of resources used during the communication is in JSON.
 
 # Project Structure
 The project is divided into 3 packages:
